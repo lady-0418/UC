@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  header {
+    background: linear-gradient(45deg, #CAD9B8, #C7E9B1, #C7A2B1);
+  }
+  
+  h1, h2 {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background: linear-gradient(45deg, #CAD9B8, #C7E9B1, #C7A2B1);
+  }
+  
